@@ -23,7 +23,7 @@ This Python script fetches a morning wish message from a specified website and s
 1. **Installation:** Ensure you have Python 3.x installed.
 2. **Clone the repository:** 
    ```bash
-   git clone https://github.com/your_username/morning-wish-email-sender.git
+   git clone https://github.com/Prakhar1802/Morning_wish_sender.git
    ```
 3. **Install dependencies:** Run `pip install requests bs4` to install the required libraries.
 4. **Configure the script:**
